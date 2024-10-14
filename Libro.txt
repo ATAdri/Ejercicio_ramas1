@@ -2,7 +2,8 @@ Nuestro libro por capítulos
 
 Capítulo 1 Este capítulo lo va a hacer Adrián
 
-Capítulo 2
+Capítulo 2 Juan
+Unir ramas
 
 Capítulo 3
 
